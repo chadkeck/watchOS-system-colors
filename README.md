@@ -7,7 +7,11 @@ system colors.
 
 ![Playground screenshot](img/playground.png?raw=true)
 
-From [Apple Watch Human Interface Guidelines](https://developer.apple.com/watch/human-interface-guidelines/specifications/).
+## Palette
+
+From [Apple Watch Human Interface Guidelines](https://developer.apple.com/watch/human-interface-guidelines/specifications/):
+
+![watchOS Color Palette](img/watch-os-2-color-palette.png?raw=true)
 
 ## Requirements
 
